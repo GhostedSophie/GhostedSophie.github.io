@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Top 10 Science Books</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 text-gray-800">
+    <div class="max-w-7xl mx-auto py-10 px-4">
+      <h1 class="text-4xl font-bold text-center mb-10">Top 10 Science Books of All Time</h1>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Book Cards -->
+        <a href="https://www.amazon.com/dp/0553380168" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=A+Brief+History+of+Time" alt="A Brief History of Time" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">A Brief History of Time</h2>
+            <p class="text-sm text-gray-600">Stephen Hawking, 1988</p>
+            <p class="mt-2 text-sm">Explores cosmology, black holes, and time travel in a way accessible to non-scientists.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/1509827690" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=The+Origin+of+Species" alt="The Origin of Species" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">The Origin of Species</h2>
+            <p class="text-sm text-gray-600">Charles Darwin, 1859</p>
+            <p class="mt-2 text-sm">Groundbreaking book that introduced the theory of evolution by natural selection.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/0345331354" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=Cosmos" alt="Cosmos" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">Cosmos</h2>
+            <p class="text-sm text-gray-600">Carl Sagan, 1980</p>
+            <p class="mt-2 text-sm">A poetic and scientific journey through the universe, blending astronomy, history, and philosophy.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/0199291152" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=The+Selfish+Gene" alt="The Selfish Gene" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">The Selfish Gene</h2>
+            <p class="text-sm text-gray-600">Richard Dawkins, 1976</p>
+            <p class="mt-2 text-sm">Revolutionary look at evolution from the gene's point of view, introducing concepts like memes.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/0226458121" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=Scientific+Revolutions" alt="The Structure of Scientific Revolutions" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">The Structure of Scientific Revolutions</h2>
+            <p class="text-sm text-gray-600">Thomas S. Kuhn, 1962</p>
+            <p class="mt-2 text-sm">Introduced the concept of "paradigm shifts" in the development of science.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/0393316041" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=Surely+Youre+Joking" alt="Surely You're Joking, Mr. Feynman!" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">Surely You're Joking, Mr. Feynman!</h2>
+            <p class="text-sm text-gray-600">Richard P. Feynman, 1985</p>
+            <p class="mt-2 text-sm">Anecdotes from the Nobel-winning physicist, showing the fun side of science.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/0618249060" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=Silent+Spring" alt="Silent Spring" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">Silent Spring</h2>
+            <p class="text-sm text-gray-600">Rachel Carson, 1962</p>
+            <p class="mt-2 text-sm">Pioneering environmental science book that sparked the modern environmental movement.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/0465026567" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=Godel+Escher+Bach" alt="Gödel, Escher, Bach" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">Gödel, Escher, Bach</h2>
+            <p class="text-sm text-gray-600">Douglas Hofstadter, 1979</p>
+            <p class="mt-2 text-sm">Explores deep connections between math, art, and music through self-reference and formal systems.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/074321630X" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=The+Double+Helix" alt="The Double Helix" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">The Double Helix</h2>
+            <p class="text-sm text-gray-600">James D. Watson, 1968</p>
+            <p class="mt-2 text-sm">Personal account of the discovery of DNA’s structure, filled with scientific rivalry and insight.</p>
+          </div>
+        </a>
+
+        <a href="https://www.amazon.com/dp/0762418984" target="_blank" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
+          <img src="https://placehold.co/600x400?text=On+the+Shoulders+of+Giants" alt="On the Shoulders of Giants" class="w-full h-64 object-cover">
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">On the Shoulders of Giants</h2>
+            <p class="text-sm text-gray-600">Stephen Hawking (editor), 2002</p>
+            <p class="mt-2 text-sm">Collection of foundational works from Newton, Einstein, Galileo, and others, with commentary.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>
+</html>
